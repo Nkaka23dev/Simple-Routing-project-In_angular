@@ -1,0 +1,9 @@
+ [
+    {"id":1,"name":"Nkaka","age":23,"location":"Kigali"},
+    {"id":2,"name":"Rusanganwa","age":24,"location":"Ruhango"},
+    {"id":3,"name":"Kettia","age":25,"location":"Bweramana"},
+    {"id":4,"name":"Isheja","age":29,"location":"Gicumbi"},
+    {"id":5,"name":"Kwitonda","age":27,"location":"Nyabihu"},
+    {"id":6,"name":"Munyeshyaka","age":29,"location":"Kanombe"},
+    {"id":7,"name":"Sheila","age":39,"location":"Kagarama"}
+  ]

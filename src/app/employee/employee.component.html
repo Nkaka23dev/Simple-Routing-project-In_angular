@@ -1,0 +1,6 @@
+<h1 class="text-info">These are Employees names</h1>
+<div (click)="Onselect(employee)" [class.text-danger]="isSelected(employee)" *ngFor="let employee of employees">
+<span>
+<h2 class="btn btn-warning font-weight-bold">{{employee.name}}</h2> 
+</span>
+</div>

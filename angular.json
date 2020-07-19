@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nkaka"
+    }
+  },
+  "defaultProject": "nkaka",
+  "cli": {
+    "analytics": "ff74b439-8e1f-4f6b-a94e-b0d8ed047065"
+  }
 }
